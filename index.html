@@ -3,15 +3,40 @@
 <html lang="ro">
 <head>
     <meta charset="UTF-8">
-    <title>Proiectul Meu Personal</title> <style>
-        body { background-color: #e0f7fa; font-family: sans-serif; text-align: center; padding-top: 50px; }
-        .container { background: white; padding: 30px; border-radius: 20px; display: inline-block; box-shadow: 0 4px 8px rgba(0,0,0,0.2); }
-        h1 { color: #00796b; }
+    <title>Tonomatul de bancuri și voie bună</title>
+    <style>
+        body { background-color: #ffcc00; font-family: 'Comic Sans MS', cursive; text-align: center; }
+        .tonomat { background: white; border: 5px solid #333; border-radius: 20px; padding: 20px; width: 80%; margin: auto; box-shadow: 10px 10px 0px #ce8e00; }
+        .premium-lock { background: #eee; padding: 20px; border: 2px dashed red; margin-top: 20px; display: none; }
+        button { background: #4CAF50; color: white; padding: 15px 32px; font-size: 16px; cursor: pointer; border-radius: 8px; }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Salut! Site-ul meu este live! 🚀</h1> <p>Acesta este un proiect de învățare găzduit pe GitHub.</p>
+    <div class="tonomat">
+        <h1>📻 Tonomatul de bancuri și voie bună 🚀</h1>
+        <div id="joke-area">
+            <p><strong>Bancul zilei:</strong> Se încarcă...</p>
+        </div>
+        <button onclick="checkAccess()">Vreau alt banc!</button>
+        
+        <div id="payment-gate" class="premium-lock">
+            <h3>⚠️ Limită atinsă!</h3>
+            <p>Ai citit cele 2 bancuri gratuite. Pentru acces nelimitat la cele mai tari glume și clipuri, plătește 1 Euro.</p>
+            <button style="background: blue;">Plătește acum</button>
+        </div>
     </div>
+
+    <script>
+        let count = 0;
+        function checkAccess() {
+            count++;
+            if(count >= 2) {
+                document.getElementById('payment-gate').style.display = 'block';
+                document.querySelector('button').disabled = true;
+            } else {
+                alert("Aici va apărea următorul banc cules de pe internet!");
+            }
+        }
+    </script>
 </body>
 </html>
