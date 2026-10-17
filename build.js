@@ -6,7 +6,7 @@
 "use strict";
 const fs=require("fs"),path=require("path");
 const ARG=process.argv.slice(2);const BASE=(ARG[ARG.indexOf("--base")+1]||"").replace(/\/$/,"")||"https://vitaliejosanu1979-ux.github.io/primul-meu-proiect";
-const ROOT=__dirname,OUT=path.join(ROOT,"site");
+const ROOT=__dirname;const OUT=ARG.includes("--root")?ROOT:path.join(ROOT,"site");const INPLACE=OUT===ROOT;
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const SECOLE=[["VII",601,700],["VIII",701,800],["IX",801,900],["X",901,1000],["XI",1001,1100],["XII",1101,1200],["XIII",1201,1300],["XIV",1301,1400],["XV",1401,1500],["XVI",1501,1600],["XVII",1601,1700]];
 const roman=y=>{const s=SECOLE.find(x=>y>=x[1]&&y<=x[2]);return s?s[0]:(y<=600?"≤VI":"≥XVIII")};
@@ -41,9 +41,7 @@ function page({title,desc,body,depth=0,head="",canon="",nav=""}){const rel="../"
 </div></body></html>`}
 
 const w=(rel,s)=>{const p=path.join(OUT,rel);fs.mkdirSync(path.dirname(p),{recursive:true});fs.writeFileSync(p,s)};
-fs.rmSync(OUT,{recursive:true,force:true});fs.mkdirSync(OUT,{recursive:true});
-fs.cpSync(path.join(ROOT,"assets"),path.join(OUT,"assets"),{recursive:true});
-if(fs.existsSync(path.join(ROOT,"img")))fs.cpSync(path.join(ROOT,"img"),path.join(OUT,"img"),{recursive:true});
+if(INPLACE){for(const d of ["piese","harta","autori","despre"])fs.rmSync(path.join(OUT,d),{recursive:true,force:true})}else{fs.rmSync(OUT,{recursive:true,force:true});fs.mkdirSync(OUT,{recursive:true});fs.cpSync(path.join(ROOT,"assets"),path.join(OUT,"assets"),{recursive:true});if(fs.existsSync(path.join(ROOT,"img")))fs.cpSync(path.join(ROOT,"img"),path.join(OUT,"img"),{recursive:true})}
 
 /* ---------- catalog (index) ---------- */
 const slim=recs.map(r=>({id:r.id,nr:r.nr,t:r.titlu,c:r.categorie,m:r.material,te:r.tehnici||[],ia:r.icon_av||[],ir:r.icon_rv||[],d:datare(r),d1:r.d1,d2:r.d2,l:loc(r),ta:r.tara||"",co:r.colectie||"",inv:r.inventar||"",ctx:r.context||"",ce:r.centru||"",lat:hasGeo(r)?+r.lat:null,lon:hasGeo(r)?+r.lon:null,lt:r.loc_tip||"",th:r._tav||r._trv||"",q:[r.descr_av,r.descr_rv,r.inscriptie,r.tipologie,r.bibliografie,r.regiune,r.observatii].filter(Boolean).join(" ").slice(0,600)}));
