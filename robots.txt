@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vitaliejosanu1979-ux.github.io/primul-meu-proiect/sitemap.xml
