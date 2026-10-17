@@ -1,0 +1,52 @@
+{
+"an_desc": null,
+"analogii": "",
+"bibliografie": "C. Cosma, Tipuri de cruci relicvar bizantine din bronz cu figuri în relief, descoperite pe teritoriul României, în „Crisia”, LII, 2022, p. 111–140 (studiu p. 111–129, planșe p. 130–140) [Cosma 2022], p. 121, repertoriu IA 2.2, reprodusă la Pl. 4/2a-b (p. 133). Piesa citată în repertoriu după: G. Ceacalopol, Crucea-relicvar de la Capidava, în „Studii și Cercetări de Istoria Artei”, IX, 1962, 1, p. 192–194; I. Barnea, Arta creștină în România, II, București, 1981, p. 158, pl. 65a-b.",
+"categorie": "Encolpion bivalv (relicvar)",
+"centru": "",
+"colectie": "",
+"context": "Așezare",
+"creat": "2026-10-17",
+"d1": 1001,
+"d2": 1100,
+"datare": "sec. XI",
+"descr_av": "Descrierea tipului IA, după autor: Hristos răstignit, cu capul ușor plecat spre dreapta, îmbrăcat în colobium căzut în falduri până la glezne, picioarele desculțe; la capetele celor patru brațe ale crucii, busturile a patru personaje biblice, identificate în unele cazuri cu Sfânta Maria și Sf. Ioan Evanghelistul. Pe această piesă: Marginile laterale ale veșmântului sunt împodobite cu un ornament în formă de torsadă (Pl. 4/2a).",
+"descr_rv": "Descrierea tipului IA, după autor: Sfânta Maria în poziție orantă, în veșmânt care acoperă complet trupul; la extremitățile celor patru brațe, busturile celor patru evangheliști.",
+"exemplu": false,
+"figura": "Pl. 4/2a-b",
+"greutate": null,
+"gros": null,
+"h": 65,
+"has_av": true,
+"has_rv": true,
+"icon_av": [
+"Răstignirea (Hristos în colobium)"
+],
+"icon_rv": [
+"Maica Domnului Orantă",
+"Evangheliști în medalioane"
+],
+"inscriptie": "",
+"inventar": "",
+"l": 40,
+"lat": 44.4967,
+"limba": "",
+"loc_tip": "Doar localitatea",
+"localitate": "Capidava",
+"lon": 28.0912,
+"material": "Bronz",
+"modificat": "2026-10-17",
+"nr": 319,
+"observatii": "Descoperită într-o locuință din nivelul încadrat de autor în a doua jumătate a sec. X și începutul sec. XI. Localitatea apare în repertoriul tipului IA cu județul Tulcea, iar în cel al tipului IC cu județul Constanța. Colecția și inventarul nu sunt date în sursă. Coordonate: ale localității (aproximative), nu date în sursă. Număr în repertoriul autorului: 2.2 (tip IA).",
+"planse": "Cosma 2022, p. 133",
+"regiune": "jud. Tulcea",
+"stare": "",
+"tara": "România",
+"tehnici": [
+"Turnare în relief"
+],
+"thumb_av": "",
+"thumb_rv": "",
+"tipologie": "Cosma 2022, tip IA",
+"titlu": "Encolpion bivalv de bronz, Capidava, repertoriu IA 2.2"
+}

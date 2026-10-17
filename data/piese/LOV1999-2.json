@@ -1,0 +1,51 @@
+{
+"an_desc": 1908,
+"analogii": "",
+"bibliografie": "Zs. Lovag, Mittelalterliche Bronzegegenstände des Ungarischen Nationalmuseums (Catalogi Musei Nationalis Hungarici, Series Archaeologica III), Budapest, 1999, p. 23, cat. nr. 2, reprodusă la Abb. 2 a-b (planșele, p. 129). Bibliografie citată în sursă: Szeghalmy 1936, 376; Bárány-Oberschall 1953, 212; Wessel 1960, 108, Abb. 8; Lovag 1971, 146, Fig. 1/2 a, b; Lovag 1979, 8, Abb. 1; Lovag 1982, 159, Abb. 1; Szatmári 1995, 221, Abb. 1 a, b.",
+"categorie": "Encolpion bivalv (relicvar)",
+"centru": "Siria–Palestina",
+"colectie": "Muzeul Național Maghiar, Budapesta",
+"context": "Necropolă / mormânt",
+"creat": "2026-10-17",
+"d1": 601,
+"d2": 1100,
+"datare": "sec. VII–XI",
+"descr_av": "Hristos în colobium, cu nimb cruciform și o cruce deasupra capului.",
+"descr_rv": "Maica Domnului în atitudine de orantă, în relief.",
+"exemplu": false,
+"figura": "Abb. 2 a-b",
+"greutate": null,
+"gros": null,
+"h": 70,
+"has_av": true,
+"has_rv": true,
+"icon_av": [
+"Răstignirea (Hristos în colobium)"
+],
+"icon_rv": [
+"Maica Domnului Orantă"
+],
+"inscriptie": "",
+"inventar": "1939.96",
+"l": 35,
+"lat": 46.9565,
+"limba": "",
+"loc_tip": "Doar localitatea",
+"localitate": "Vésztő, dealul Mágori",
+"lon": 21.1936,
+"material": "Bronz",
+"modificat": "2026-10-17",
+"nr": 8,
+"observatii": "Datare după Lovag: sec. VII–XI. VII–XI. Intrat în muzeu prin schimb. Găsit în 1908 pe terenul unei mănăstiri medievale, într-un mormânt de cărămidă, împreună cu 2 monede de la Sf. Ladislau (1077–1095). Coordonate: ale localității (aproximative), nu date în sursă.",
+"planse": "Lovag 1999, planșele, p. 129",
+"regiune": "Békés (Kom.)",
+"stare": "",
+"tara": "Ungaria",
+"tehnici": [
+"Turnare în relief"
+],
+"thumb_av": "",
+"thumb_rv": "",
+"tipologie": "",
+"titlu": "Encolpion bivalv cu Răstignirea și Maica Domnului Orantă"
+}

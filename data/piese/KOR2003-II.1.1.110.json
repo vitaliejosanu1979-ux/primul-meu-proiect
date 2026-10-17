@@ -1,0 +1,51 @@
+{
+"an_desc": 1988,
+"analogii": "",
+"bibliografie": "G. F. Korzukhina, A. A. Peskova, Древнерусские энколпионы. Нагрудные кресты-реликварии XI–XIII вв., Sankt-Petersburg, 2003 [Korzukhina–Peskova 2003], p. 73, cat. nr. II 1 1/110, reprodusă la Табл. 28 (planșe, p. 270). Bibliografie citată în sursă: Голофаст, Романчук, Рыжов 1991 201 № 215.",
+"categorie": "Encolpion bivalv (relicvar)",
+"centru": "Necunoscut",
+"colectie": "Rezervația Națională „Chersonesos Tauric” (NZHT), Sevastopol",
+"context": "Așezare",
+"creat": "2026-10-17",
+"d1": 1101,
+"d2": 1300,
+"datare": "sec. sfârșit XII–XIII",
+"descr_av": "Valva de față: în centru imaginea Răstignirii; deasupra capului lui Hristos, în tăbliță, monograma IX; pe capetele de sus și laterale, în medalioane, imagini bust de sfinți. Imaginile sunt în relief; cutele maforionului Maicii Domnului și nimbul lui Hristos sunt ornamentate cu crestături oblice, contururile valvelor și ale medalioanelor sunt subliniate cu o bordură îngustă în relief cu crestături oblice păstrate în unele locuri.",
+"descr_rv": "Valva de revers: în centru Maica Domnului cu Pruncul; pe capătul de sus și pe cel lateral, în medalioane, imagini bust de sfinți. Imaginile sunt neclare, topite; pe suprafețele interioare ale valvelor sunt adâncituri care repetă imaginile exterioare. Inelul de agățare și balamalele valvei de revers pierdute.",
+"exemplu": false,
+"figura": "Табл. 28",
+"greutate": null,
+"gros": null,
+"h": 80,
+"has_av": true,
+"has_rv": true,
+"icon_av": [
+"Neidentificat"
+],
+"icon_rv": [
+"Maica Domnului cu Pruncul",
+"Neidentificat"
+],
+"inscriptie": "IX (monogramă în tăbliță)",
+"inventar": "111/37148",
+"l": 70,
+"lat": null,
+"limba": "",
+"localitate": "Sevastopol (Chersonesos)",
+"lon": null,
+"material": "Aramă",
+"modificat": "2026-10-17",
+"nr": 730,
+"observatii": "Datare după Peskova: sec. sfârșit XII–XIII. Circumstanțe: Săpături S. G. Rîjov, 1988; cartierul de nord, cartierul XA, stratul de incendiu din sec. XIII. Datarea și dimensiunile sunt indicate de redacție (— Ред.). Alte inscripții în afara monogramei nu se citesc; se vede doar o linie despărțitoare orizontală adâncită de o parte și de alta a Maicii Domnului. Coordonate: nu sunt date în sursă.",
+"planse": "Korzukhina–Peskova 2003, Табл. 28 (planșă fără paginație proprie în PDF; p. 270 tipărită)",
+"regiune": "Crimeea",
+"stare": "",
+"tara": "Ucraina",
+"tehnici": [
+"Turnare în relief"
+],
+"thumb_av": "",
+"thumb_rv": "",
+"tipologie": "Korzukhina–Peskova 2003, tip II 1 1",
+"titlu": "Encolpion cu două valve, capete cu „lacrimi”, Răstignire cu monograma IX în tăbliță, Maica Domnului cu Pruncul"
+}

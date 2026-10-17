@@ -1,0 +1,51 @@
+{
+"an_desc": null,
+"analogii": "",
+"bibliografie": "B. I. și V. N. Khanenko, Древности русскія. Кресты и образки, вып. II (Собраніе Б. И. и В. Н. Ханенко), Kiev, 1900 [Khanenko 1900], cat. nr. 237–238, Tabl. XX, reprodusă la Табл. XX, fig. 237, 238 (planșa de la p. 19 a PDF-ului).",
+"categorie": "Encolpion bivalv (relicvar)",
+"centru": "Necunoscut",
+"colectie": "Colecția B. I. și V. N. Khanenko, Kiev",
+"context": "Necunoscut",
+"creat": "2026-10-17",
+"d1": 1001,
+"d2": 1200,
+"datare": "XI–XII в.",
+"descr_av": "Fața: ornamente geometrice executate în email policrom, parte cloisonné, parte champlevé; capetele crucii sunt drepte și se termină, pe laturi, cu cercuri.",
+"descr_rv": "Reversul: ornamente geometrice în email policrom.",
+"exemplu": false,
+"figura": "Табл. XX, fig. 237, 238",
+"greutate": null,
+"gros": null,
+"h": null,
+"has_av": true,
+"has_rv": true,
+"icon_av": [
+"Ornament geometric"
+],
+"icon_rv": [
+"Ornament geometric"
+],
+"inscriptie": "",
+"inventar": "nr. 237–238 (numerotarea colecției Khanenko)",
+"l": null,
+"lat": 49.7373,
+"limba": "",
+"loc_tip": "Doar localitatea",
+"localitate": "Knjaža Gora (Княжа гора)",
+"lon": 31.5053,
+"material": "Aramă",
+"modificat": "2026-10-17",
+"nr": 109,
+"observatii": "Datare după Khanenko: XI–XII в. Ureche în formă de două trunchiuri de con așezate cu bazele lipite. Numerele 237 și 238 corespund celor două fețe. Coordonate: ale localității (aproximative), nu date în sursă.",
+"planse": "Khanenko 1900, Табл. XX (planșă fără paginație tipărită; p. 19 în PDF)",
+"regiune": "ținutul Cerkasî, gubernia Kiev",
+"stare": "",
+"tara": "Ucraina",
+"tehnici": [
+"Email"
+],
+"thumb_av": "",
+"thumb_rv": "",
+"tipologie": "",
+"titlu": "Cruce-encolpion de aramă emailată, cu urechea în formă de două trunchiuri de con"
+}

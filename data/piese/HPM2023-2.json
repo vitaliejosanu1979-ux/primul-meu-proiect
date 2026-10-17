@@ -1,0 +1,52 @@
+{
+"an_desc": null,
+"analogii": "Pitarakis 2006, cat. 304, 337; Altun 2015, p. 304, lev. 7/15",
+"bibliografie": "C. Ünal, Z. Çakmakçı, Halûk Perk Müzesi’nden Meryem ve Çocuk İsa Betimli Bir Grup Röliker Haçın İkonografik Bakımdan Değerlendirilmesi, „Art-Sanat”, 20, 2023, p. 667–701 [Ünal–Çakmakçı 2023], p. 684, cat. nr. 2, reprodusă la G. 2 (p. 684). DOI: 10.26650/artsanat.2023.20.1289947. Acces liber (CC BY-NC 4.0).",
+"categorie": "Encolpion bivalv (relicvar)",
+"centru": "Necunoscut",
+"colectie": "Muzeul Halûk Perk (Halûk Perk Müzesi), Istanbul, Turcia",
+"context": "Colecție (fără context)",
+"creat": "2026-10-17",
+"d1": 1001,
+"d2": 1100,
+"datare": "sec. XI",
+"descr_av": "Sfântul Ioan în picioare, în întreaga înălțime, din față, în poziție de orant; deasupra capului inscripția HOANHC. Din cauza coroziunii, trăsăturile și detaliile veșmântului sunt șterse.",
+"descr_rv": "Maica Domnului în picioare, în întreaga înălțime, din față, în poziție de orant, cu Pruncul din față la nivelul pieptului (în întreaga înălțime, cu semn de întrebare la autor); la capătul brațului de sus inscripția MP ΘV. Detaliile liniare ale veșmintelor sunt șterse de coroziune.",
+"exemplu": false,
+"figura": "G. 2",
+"greutate": null,
+"gros": 7,
+"h": 76,
+"has_av": true,
+"has_rv": true,
+"icon_av": [
+"Sf. Ioan"
+],
+"icon_rv": [
+"Maica Domnului Orantă",
+"Maica Domnului cu Pruncul"
+],
+"inscriptie": "HOANHC [Ηοανης]; MP ΘV [Μ(ήτή)ρ Θ(εο)ύ]",
+"inventar": "HPM 2118",
+"l": 41,
+"lat": 41.0565,
+"limba": "Greacă",
+"loc_tip": "Loc de păstrare (loc de descoperire incert)",
+"localitate": "",
+"lon": 29.0506,
+"material": "Bronz",
+"modificat": "2026-10-17",
+"nr": 290,
+"observatii": "Datare după Ünal și Çakmakçı: sec. XI. Dimensiuni date în sursă (cm): înălțime cu balamalele 7.6, înălțimea crucii 6.4, lățime 4.1, grosime 0.7. Balamalele sunt parțial rupte; coroziune puternică pe suprafață, care a șters în parte reprezentările. Pe fotografie se vede o etichetă cu numărul de inventar. Locul descoperirii nu e cunoscut cu precizie; punctul de pe hartă marchează locul de păstrare (Muzeul Halûk Perk), nu locul descoperirii. Coordonate: nu sunt date în sursă.",
+"planse": "Ünal–Çakmakçı 2023, p. 684",
+"regiune": "",
+"stare": "Fragmentară",
+"tara": "",
+"tehnici": [
+"Gravare (incizie)"
+],
+"thumb_av": "",
+"thumb_rv": "",
+"tipologie": "Pitarakis 2006, forma tip I; Ünal–Çakmakçı 2023, tip 1/a",
+"titlu": "Encolpion bivalv de bronz, cat. 2, Muzeul Halûk Perk"
+}

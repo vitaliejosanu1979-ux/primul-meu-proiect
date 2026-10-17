@@ -1,0 +1,53 @@
+{
+"an_desc": 1993,
+"analogii": "",
+"bibliografie": "G. F. Korzukhina, A. A. Peskova, Древнерусские энколпионы. Нагрудные кресты-реликварии XI–XIII вв., Sankt-Petersburg, 2003 [Korzukhina–Peskova 2003], p. 97, cat. nr. II 4 2/1, reprodusă la Табл. 45 (planșe, p. 287). Bibliografie citată în sursă: Жарнов 1994, 61–62; Жарнов 1997, 87–88, 90.",
+"categorie": "Encolpion bivalv (relicvar)",
+"centru": "Necunoscut",
+"colectie": "Muzeul-rezervație de Stat de Istorie, Arhitectură și Artă din Vladimir-Suzdal (VSMZ), Vladimir",
+"context": "Tezaur",
+"creat": "2026-10-17",
+"d1": 1201,
+"d2": 1300,
+"datare": "sec. nu mai târziu de prima treime XIII",
+"descr_av": "Encolpion întreg, în relief, cu capetele ramurilor drepte, ușor lărgite, și inel de agățare în formă de mărgea bitronconică goală, cu brâie în relief; în inel s-au păstrat resturi de șnur din mătase țesută împăturită în două. Axa verticală a feței crucii are capătul de sus în formă de cheie, și un prag dreptunghiular la marginea de jos. Pe întreaga suprafață a valvei de față, figura în relief a lui Hristos răstignit, cu inscripții explicative. Marginea de sus a stâlpului vertical al lemnului crucii, cu inscripția NHKA, formează capăt în formă de cheie; ramura de jos are un suport cu trepte pentru picioarele lui Hristos.",
+"descr_rv": "Pe valva de revers e reprezentată scena Înălțării: pe verticală, imagine în relief a Maicii Domnului cu mâinile ridicate în fața pieptului, cu nimb obținut prin gravare; pe capetele laterale, figuri în relief, în profil, până la piept, ale arhanghelilor Mihail (ramura stângă) și Gavriil (ramura dreaptă), cu mâinile întinse către Maica Domnului.",
+"exemplu": false,
+"figura": "Табл. 45",
+"greutate": null,
+"gros": null,
+"h": 59,
+"has_av": true,
+"has_rv": true,
+"icon_av": [
+"Neidentificat"
+],
+"icon_rv": [
+"Maica Domnului Orantă",
+"Sf. Arhanghel Mihail"
+],
+"inscriptie": "IC XC NHKA РАППАТИЄ [?] (față); МР ΘΥ, М[И]ХА[И]Л[ОС], [ГА]ВРИА (revers)",
+"inventar": "В-48510/121",
+"l": 39,
+"lat": null,
+"limba": "Slavonă",
+"localitate": "Vladimir pe Kliazma",
+"lon": null,
+"material": "Argint",
+"modificat": "2026-10-17",
+"nr": 948,
+"observatii": "Datare după Peskova: sec. nu mai târziu de prima treime XIII. Circumstanțe: Descoperit în 1993 în timpul săpăturilor din partea de est a nucleului istoric al Vladimirului („Vecinii gorod”), pe teritoriul actualului cartier delimitat de străzile III Internaționala, Herzen, Cehov și Zlatovratski, în componența unui tezaur de obiecte de cult creștin găsit într-o groapă mică, în fundul pivniței unei locuințe incendiate în februarie 1238; crucea se afla într-o pungă de mătase cu șnur de gât, țesut cu aur, împreună cu alte obiecte din tezaur. Săpături ale Centrului de Stat pentru evidența, folosirea și restaurarea monumentelor din regiunea Vladimir (conducător Ju. E. Jarnov). Dimensiuni: înălțime 5,1–5,9 cm; grosimea valvelor 0,5–0,6 cm (în tipar „înălțimea valvelor”). Crucea e turnată cu folosirea unei forme de piatră, reliefurile retușate cu dalta; suprafața reliefurilor lipsite de aurire e serios corodată. Encolpionul nu se deschide: știftul broaștei a fost sfărâmat în vechime; crucea e umplută cu o masă maronie. Toate inscripțiile explicative sunt executate prin gravare adâncită; autorii notează „primele cinci litere în formă de ligatură complexă” la numele arhanghelului. Lectura MP ΘΥ și a numelor de verificat pe original. După Ju. E. Jarnov, reproducere remarcabilă, poate modificată, a unui model vechi, nu mai târziu de prima treime a sec. XIII; Răstignirea de pe față are toate trăsăturile iconografice ale variantei I a tipului. Coordonate: nu sunt date în sursă.",
+"planse": "Korzukhina–Peskova 2003, Табл. 45 (planșă fără paginație proprie în PDF; p. 287 tipărită)",
+"regiune": "regiunea Vladimir",
+"stare": "Întreagă",
+"tara": "Rusia",
+"tehnici": [
+"Turnare în relief",
+"Gravare (incizie)",
+"Aurire"
+],
+"thumb_av": "",
+"thumb_rv": "",
+"tipologie": "Korzukhina–Peskova 2003, tip II 4 2",
+"titlu": "Encolpion de argint aurit: Răstignirea pe față, Înălțarea cu Maica Domnului și arhangheli pe revers"
+}

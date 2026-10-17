@@ -1,0 +1,51 @@
+{
+"an_desc": null,
+"analogii": "",
+"bibliografie": "Zs. Lovag, Mittelalterliche Bronzegegenstände des Ungarischen Nationalmuseums (Catalogi Musei Nationalis Hungarici, Series Archaeologica III), Budapest, 1999, p. 30, cat. nr. 34, reprodusă la Abb. 34 a-b (planșele, p. 135). Bibliografie citată în sursă: Bárány-Oberschall 1953, 235, Abb. 75.c; Lovag 1980, 368, Abb. 2/7.",
+"categorie": "Cruce pectorală simplă",
+"centru": "Atelier local",
+"colectie": "Muzeul Național Maghiar, Budapesta",
+"context": "Colecție (fără context)",
+"creat": "2026-10-17",
+"d1": 1001,
+"d2": 1050,
+"datare": "prima jumătate a sec. XI",
+"descr_av": "Hristos în relief, în perizoma, cu brațele îndoite în sus și mâinile mari.",
+"descr_rv": "Pe spate, la capetele brațelor, linii paralele crestate, neregulate.",
+"exemplu": false,
+"figura": "Abb. 34 a-b",
+"greutate": null,
+"gros": null,
+"h": 37,
+"has_av": true,
+"has_rv": true,
+"icon_av": [
+"Răstignirea (Hristos cu perizoma)"
+],
+"icon_rv": [
+"Ornament geometric"
+],
+"inscriptie": "",
+"inventar": "1874.1.584",
+"l": 32,
+"lat": 47.4913,
+"limba": "",
+"loc_tip": "Loc de păstrare (loc de descoperire incert)",
+"localitate": "",
+"lon": 19.0626,
+"material": "Bronz",
+"modificat": "2026-10-17",
+"nr": 40,
+"observatii": "Datare după Lovag: prima jumătate a sec. XI. XI. Loc de descoperire necunoscut; din colecția Rath. Brațe care se lărgesc, drepte; ureche de agățare ușor lateral. Locul descoperirii nu e cunoscut cu precizie; punctul de pe hartă marchează locul de păstrare (Muzeul Național Maghiar), nu locul descoperirii. Coordonate: nu sunt date în sursă.",
+"planse": "Lovag 1999, planșele, p. 135",
+"regiune": "",
+"stare": "",
+"tara": "",
+"tehnici": [
+"Turnare în relief"
+],
+"thumb_av": "",
+"thumb_rv": "",
+"tipologie": "",
+"titlu": "Cruce pectorală cu Hristos răstignit în perizoma"
+}

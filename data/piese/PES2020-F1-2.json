@@ -1,0 +1,52 @@
+{
+"an_desc": 2007,
+"analogii": "",
+"bibliografie": "А. А. Пескова, Древнейшие древнерусские нагрудные кресты-реликварии в свете новых исследований, în „Археологические вести”, 27, 2020, p. 175–193 [Пескова 2020], рис. 1, 2 (p. 178, legenda p. 179), tabelul 1 (p. 181). DOI 10.31600/1817-6976-2020-27-175-193. Publicată la: Григорьева 2015, p. 251, 253, рис. 2, 4.",
+"categorie": "Encolpion bivalv (relicvar)",
+"centru": "",
+"colectie": "",
+"context": "Așezare",
+"creat": "2026-10-17",
+"d1": 1067,
+"d2": 1250,
+"datare": "sfârșitul sec. XI – prima jumătate a sec. XIII",
+"descr_av": "Răstignirea: Hristos încins, cu un crucifix cu patru brațe deasupra capului (descrierea grupului IV.6.1 / IV.5.5, după autor).",
+"descr_rv": "Maica Domnului în rugăciune (orantă) (descrierea grupului, după autor).",
+"exemplu": false,
+"figura": "рис. 1, 2",
+"greutate": null,
+"gros": null,
+"h": null,
+"has_av": true,
+"has_rv": true,
+"icon_av": [
+"Răstignirea (Hristos cu perizoma)"
+],
+"icon_rv": [
+"Maica Domnului Orantă"
+],
+"inscriptie": "",
+"inventar": "",
+"l": null,
+"lat": 58.4945,
+"limba": "",
+"loc_tip": "Doar localitatea",
+"localitate": "Veliki Novgorod, Riurikovo Gorodișcele",
+"lon": 31.2983,
+"material": "",
+"modificat": "2026-10-17",
+"nr": 502,
+"observatii": "Găsit în 2007 în surparea peretelui săpăturii (Tabelul 1, nr. 7). Autorul îl socotește unul dintre exemplarele imitative ale grupei IV.6.1, nu produs al „Marii ateliere”. Datare: după contextul arheologic dat de autor. Coordonate: ale localității (aproximative), nu date în sursă.",
+"planse": "Пескова 2020, p. 178",
+"regiune": "",
+"stare": "",
+"tara": "Rusia",
+"tehnici": [
+"Gravare (incizie)",
+"Niello"
+],
+"thumb_av": "",
+"thumb_rv": "",
+"tipologie": "Korzuhina–Peskova 2003, grupa IV.6.1 (standard)",
+"titlu": "Encolpion bivalv, Veliki Novgorod, рис. 1, 2"
+}

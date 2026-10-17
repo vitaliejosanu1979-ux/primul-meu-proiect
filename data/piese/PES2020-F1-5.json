@@ -1,0 +1,52 @@
+{
+"an_desc": 1987,
+"analogii": "",
+"bibliografie": "А. А. Пескова, Древнейшие древнерусские нагрудные кресты-реликварии в свете новых исследований, în „Археологические вести”, 27, 2020, p. 175–193 [Пескова 2020], рис. 1, 5 (p. 178, legenda p. 179), tabelul 2, nr. 5 (p. 184). DOI 10.31600/1817-6976-2020-27-175-193. Publicată la: Макаров и др. 2017, p. 295, рис. 2, 8; Кокорина 2013, p. 18, cat. nr. 1.",
+"categorie": "Encolpion bivalv (relicvar)",
+"centru": "",
+"colectie": "",
+"context": "Așezare",
+"creat": "2026-10-17",
+"d1": 1001,
+"d2": 1150,
+"datare": "sec. XI – prima jumătate a sec. XII",
+"descr_av": "Răstignirea: Hristos încins, cu un crucifix cu patru brațe deasupra capului (descrierea grupului IV.6.1 / IV.5.5, după autor).",
+"descr_rv": "Maica Domnului în rugăciune (orantă) (descrierea grupului, după autor).",
+"exemplu": false,
+"figura": "рис. 1, 5",
+"greutate": null,
+"gros": null,
+"h": null,
+"has_av": true,
+"has_rv": true,
+"icon_av": [
+"Răstignirea (Hristos cu perizoma)"
+],
+"icon_rv": [
+"Maica Domnului Orantă"
+],
+"inscriptie": "",
+"inventar": "",
+"l": null,
+"lat": 56.4194,
+"limba": "",
+"loc_tip": "Doar localitatea",
+"localitate": "Veś I, Suzdalskoe Opolie",
+"lon": 40.4488,
+"material": "",
+"modificat": "2026-10-17",
+"nr": 505,
+"observatii": "Tabelul 2, nr. 5. Dimensiunile în tabel sunt două: (3,3–3,4) × (2,6–2,7) cm și 4,6 × 2,6 × 0,6 cm; nu se spune care e a acestei piese. Datare: după contextul arheologic dat de autor. Coordonate: ale localității (aproximative), nu date în sursă.",
+"planse": "Пескова 2020, p. 178",
+"regiune": "Suzdalskoe Opolie",
+"stare": "",
+"tara": "Rusia",
+"tehnici": [
+"Gravare (incizie)",
+"Niello"
+],
+"thumb_av": "",
+"thumb_rv": "",
+"tipologie": "Korzuhina–Peskova 2003, grupa IV.5.5 (nestandard)",
+"titlu": "Encolpion bivalv, Veś I, рис. 1, 5"
+}

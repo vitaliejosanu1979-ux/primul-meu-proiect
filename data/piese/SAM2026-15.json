@@ -1,0 +1,52 @@
+{
+"an_desc": null,
+"analogii": "",
+"bibliografie": "O. A. Şirin, Samsun Müzesinden Röliker (Enkolpion) Haçlar / Reliquary (Enkolpion) Crosses from the Samsun Museum, în „TRMuseum” (Troy Museum Journal), 5, martie 2026, p. 51–103 [Şirin 2026], p. 71, cat. nr. 15, reprodusă la Resim/Çizim 15 (p. 88). Acces liber: https://dergipark.org.tr/tr/pub/troymuseum/article/1855384",
+"categorie": "Encolpion bivalv (relicvar)",
+"centru": "Necunoscut",
+"colectie": "Muzeul Samsun (Samsun Müzesi), Turcia",
+"context": "Colecție (fără context)",
+"creat": "2026-10-17",
+"d1": 1001,
+"d2": 1100,
+"datare": "sec. XI",
+"descr_av": "Maica Domnului orantă, cu nimb; deasupra capului ΘΕΟΤΟΚ.",
+"descr_rv": "Cinci locașuri (în centru și pe brațe) din care au căzut aplicile inelare; locașul din centru e înconjurat de motive crestate.",
+"exemplu": false,
+"figura": "Resim/Çizim 15",
+"greutate": null,
+"gros": 9,
+"h": 80,
+"has_av": true,
+"has_rv": true,
+"icon_av": [
+"Maica Domnului Orantă"
+],
+"icon_rv": [
+"Ornament geometric"
+],
+"inscriptie": "ΘΕΟΤΟΚ [Θεοτόκ(ος)]",
+"inventar": "Müze Ark. Env. No 2016/30(A)",
+"l": 52,
+"lat": 41.2867,
+"limba": "Greacă",
+"loc_tip": "Loc de păstrare (loc de descoperire incert)",
+"localitate": "",
+"lon": 36.33,
+"material": "Bronz",
+"modificat": "2026-10-17",
+"nr": 169,
+"observatii": "Datare după Şirin: sec. XI. Intrat în muzeu prin achiziție, 02/09/2016. Umplerea locașurilor prin încrustare sau turnare, după autor. Locul descoperirii nu e cunoscut cu precizie; punctul de pe hartă marchează locul de păstrare (Muzeul Samsun), nu locul descoperirii. Coordonate: nu sunt date în sursă.",
+"planse": "Şirin 2026, p. 88",
+"regiune": "",
+"stare": "",
+"tara": "",
+"tehnici": [
+"Gravare (incizie)",
+"Încrustație"
+],
+"thumb_av": "",
+"thumb_rv": "",
+"tipologie": "Pitarakis 2006, forma tip I",
+"titlu": "Encolpion bivalv de bronz, cat. 15, Muzeul Samsun"
+}

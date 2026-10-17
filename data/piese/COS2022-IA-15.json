@@ -1,0 +1,52 @@
+{
+"an_desc": null,
+"analogii": "",
+"bibliografie": "C. Cosma, Tipuri de cruci relicvar bizantine din bronz cu figuri în relief, descoperite pe teritoriul României, în „Crisia”, LII, 2022, p. 111–140 (studiu p. 111–129, planșe p. 130–140) [Cosma 2022], p. 122, repertoriu IA 7.15, reprodusă la Pl. 6/3a-b (p. 135). Piesa citată în repertoriu după: Mănucu-Adameșteanu 1984, p. 378, nr. 6, pl. III/1.",
+"categorie": "Encolpion bivalv (relicvar)",
+"centru": "",
+"colectie": "",
+"context": "Necunoscut",
+"creat": "2026-10-17",
+"d1": 1001,
+"d2": 1100,
+"datare": "sec. XI",
+"descr_av": "Descrierea tipului IA, după autor: Hristos răstignit, cu capul ușor plecat spre dreapta, îmbrăcat în colobium căzut în falduri până la glezne, picioarele desculțe; la capetele celor patru brațe ale crucii, busturile a patru personaje biblice, identificate în unele cazuri cu Sfânta Maria și Sf. Ioan Evanghelistul.",
+"descr_rv": "Descrierea tipului IA, după autor: Sfânta Maria în poziție orantă, în veșmânt care acoperă complet trupul; la extremitățile celor patru brațe, busturile celor patru evangheliști.",
+"exemplu": false,
+"figura": "Pl. 6/3a-b",
+"greutate": null,
+"gros": 6,
+"h": 32,
+"has_av": true,
+"has_rv": true,
+"icon_av": [
+"Răstignirea (Hristos în colobium)"
+],
+"icon_rv": [
+"Maica Domnului Orantă",
+"Evangheliști în medalioane"
+],
+"inscriptie": "",
+"inventar": "",
+"l": 21,
+"lat": 45.2722,
+"limba": "",
+"loc_tip": "Doar localitatea",
+"localitate": "Isaccea",
+"lon": 28.4571,
+"material": "Bronz",
+"modificat": "2026-10-17",
+"nr": 332,
+"observatii": "În repertoriu trimiterea este „Pl. 6/1a-b”; piesa apare pe Pl. 6, fig. 3a-b. Colecția și inventarul nu sunt date în sursă. Coordonate: ale localității (aproximative), nu date în sursă. Număr în repertoriul autorului: 7.15 (tip IA).",
+"planse": "Cosma 2022, p. 135",
+"regiune": "jud. Tulcea",
+"stare": "",
+"tara": "România",
+"tehnici": [
+"Turnare în relief"
+],
+"thumb_av": "",
+"thumb_rv": "",
+"tipologie": "Cosma 2022, tip IA",
+"titlu": "Encolpion bivalv de bronz, Isaccea, repertoriu IA 7.15"
+}

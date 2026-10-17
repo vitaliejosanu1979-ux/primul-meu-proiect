@@ -1,0 +1,51 @@
+{
+"an_desc": null,
+"analogii": "",
+"bibliografie": "C. Cosma, Tipuri de cruci relicvar bizantine din bronz cu figuri în relief, descoperite pe teritoriul României, în „Crisia”, LII, 2022, p. 111–140 (studiu p. 111–129, planșe p. 130–140) [Cosma 2022], p. 125, repertoriu IC 7.27, reprodusă la Pl. 8/1a-b (p. 137). Piesa citată în repertoriu după: Mănucu-Adameșteanu 1984, p. 379, pl. III/4.",
+"categorie": "Encolpion bivalv (relicvar)",
+"centru": "",
+"colectie": "",
+"context": "Necunoscut",
+"creat": "2026-10-17",
+"d1": 1001,
+"d2": 1200,
+"datare": "sec. XI–XII",
+"descr_av": "Descrierea tipului IC, după autor: Hristos răstignit, cu capul înclinat spre dreapta, cu mâinile întinse până la capetele brațelor crucii, în veșmânt larg căzut în falduri, redat schematic prin linii simple; fără busturi la capetele brațelor. Pe această piesă: Hristos poartă un perizon strâns în jurul bazinului și lung până la genunchi; deasupra capului soarele și luna (Pl. 8/1a).",
+"descr_rv": "Descrierea tipului IC, după autor: Sfânta Maria în poziție orantă, cu capul înconjurat de nimb; mamphorium redat schematic prin linii; fără busturi la capetele brațelor.",
+"exemplu": false,
+"figura": "Pl. 8/1a-b",
+"greutate": null,
+"gros": 3,
+"h": 43,
+"has_av": true,
+"has_rv": true,
+"icon_av": [
+"Răstignirea (Hristos cu perizoma)"
+],
+"icon_rv": [
+"Maica Domnului Orantă"
+],
+"inscriptie": "",
+"inventar": "",
+"l": 29,
+"lat": 45.1349,
+"limba": "",
+"loc_tip": "Doar localitatea",
+"localitate": "Nufăru",
+"lon": 28.9283,
+"material": "Bronz",
+"modificat": "2026-10-17",
+"nr": 366,
+"observatii": "Localitatea apare în text ca „Nufărul” și „Nufăru”. Colecția și inventarul nu sunt date în sursă. Coordonate: ale localității (aproximative), nu date în sursă. Număr în repertoriul autorului: 7.27 (tip IC).",
+"planse": "Cosma 2022, p. 137",
+"regiune": "jud. Tulcea",
+"stare": "",
+"tara": "România",
+"tehnici": [
+"Turnare în relief"
+],
+"thumb_av": "",
+"thumb_rv": "",
+"tipologie": "Cosma 2022, tip IC",
+"titlu": "Encolpion bivalv de bronz, Nufăru, repertoriu IC 7.27"
+}

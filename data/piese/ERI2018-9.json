@@ -1,0 +1,51 @@
+{
+"an_desc": null,
+"analogii": "Ca la cat. 8",
+"bibliografie": "O. Koçyiğit, Erimtan Arkeoloji ve Sanat Müzesi Bizans Dönemi Maden Haçları, „Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi”, 35/2, decembrie 2018, p. 110–121 [Koçyiğit 2018], p. 118, cat. nr. 9, reprodusă la Res. 9 (p. 121). DOI: 10.32600/huefd.430267.",
+"categorie": "Encolpion bivalv (relicvar)",
+"centru": "Necunoscut",
+"colectie": "Muzeul de Arheologie și Artă Erimtan (Erimtan Arkeoloji ve Sanat Müzesi), Ankara, Turcia",
+"context": "Colecție (fără context)",
+"creat": "2026-10-17",
+"d1": 1001,
+"d2": 1200,
+"datare": "sec. XI–XII",
+"descr_av": "Patru cercuri mici incizate, strânse în jurul centrului (în sursă „Ön yüz”).",
+"descr_rv": "Patru cercuri incizate, câte unul pe fiecare braț.",
+"exemplu": false,
+"figura": "Res. 9",
+"greutate": null,
+"gros": null,
+"h": 65,
+"has_av": true,
+"has_rv": true,
+"icon_av": [
+"Ornament geometric"
+],
+"icon_rv": [
+"Ornament geometric"
+],
+"inscriptie": "",
+"inventar": "",
+"l": 40,
+"lat": 39.937,
+"limba": "",
+"loc_tip": "Loc de păstrare (loc de descoperire incert)",
+"localitate": "",
+"lon": 32.861,
+"material": "Bronz",
+"modificat": "2026-10-17",
+"nr": 317,
+"observatii": "Datare după Koçyiğit: Perioada Bizantină Mijlocie, sec. XI–XII. Numărul de inventar nu e dat în sursă (piesele sunt numerotate „Res. No”); piesele au intrat în colecție unele prin cumpărare, altele prin donație, locul descoperirii nu se cunoaște; autorul le socotește de origine anatoliană. Dimensiuni date în sursă (cm): înălțime 6.5, lățime 4.0. Autorul descrie piesa ca „tam ve sağlam” (întreagă și în stare bună). Brațele nu se lărgesc spre exterior. Pe fotografia reversului se vede un număr scris pe piesă. Locul descoperirii nu e cunoscut cu precizie; punctul de pe hartă marchează locul de păstrare (Muzeul de Arheologie și Artă Erimtan), nu locul descoperirii. Coordonate: nu sunt date în sursă.",
+"planse": "Koçyiğit 2018, p. 121",
+"regiune": "",
+"stare": "Întreagă",
+"tara": "",
+"tehnici": [
+"Gravare (incizie)"
+],
+"thumb_av": "",
+"thumb_rv": "",
+"tipologie": "Pitarakis 2006, forma tip VII",
+"titlu": "Encolpion bivalv de bronz, cat. 9, Muzeul Erimtan"
+}

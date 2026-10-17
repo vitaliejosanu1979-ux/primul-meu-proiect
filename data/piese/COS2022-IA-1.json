@@ -1,0 +1,52 @@
+{
+"an_desc": null,
+"analogii": "",
+"bibliografie": "C. Cosma, Tipuri de cruci relicvar bizantine din bronz cu figuri în relief, descoperite pe teritoriul României, în „Crisia”, LII, 2022, p. 111–140 (studiu p. 111–129, planșe p. 130–140) [Cosma 2022], p. 121, repertoriu IA 1.1, reprodusă la Pl. 1/3a-b (p. 130). Piesa citată în repertoriu după: P. Aurelian, Săpăturile de la Piatra Frecăței, în MCA, VIII, 1962, p. 586, fig. 23; Gh. Mănucu-Adameșteanu, Elemente de cultură bizantină la gurile Dunării, în „Peuce”, IX, 1984, p. 376–377, pl. II/1 a-b.",
+"categorie": "Encolpion bivalv (relicvar)",
+"centru": "",
+"colectie": "",
+"context": "Necunoscut",
+"creat": "2026-10-17",
+"d1": 901,
+"d2": 1100,
+"datare": "sec. X–XI",
+"descr_av": "Descrierea tipului IA, după autor: Hristos răstignit, cu capul ușor plecat spre dreapta, îmbrăcat în colobium căzut în falduri până la glezne, picioarele desculțe; la capetele celor patru brațe ale crucii, busturile a patru personaje biblice, identificate în unele cazuri cu Sfânta Maria și Sf. Ioan Evanghelistul. Pe această piesă: Mântuitorul este înfățișat cu barbă (Pl. 1/3a).",
+"descr_rv": "Descrierea tipului IA, după autor: Sfânta Maria în poziție orantă, în veșmânt care acoperă complet trupul; la extremitățile celor patru brațe, busturile celor patru evangheliști.",
+"exemplu": false,
+"figura": "Pl. 1/3a-b",
+"greutate": null,
+"gros": 8,
+"h": 75,
+"has_av": true,
+"has_rv": true,
+"icon_av": [
+"Răstignirea (Hristos în colobium)"
+],
+"icon_rv": [
+"Maica Domnului Orantă",
+"Evangheliști în medalioane"
+],
+"inscriptie": "",
+"inventar": "",
+"l": 40,
+"lat": 44.8949,
+"limba": "",
+"loc_tip": "Doar localitatea",
+"localitate": "Beroe – Piatra Frecăței",
+"lon": 28.1253,
+"material": "Bronz",
+"modificat": "2026-10-17",
+"nr": 318,
+"observatii": "Colecția și inventarul nu sunt date în sursă. Coordonate: ale localității (aproximative), nu date în sursă. Număr în repertoriul autorului: 1.1 (tip IA).",
+"planse": "Cosma 2022, p. 130",
+"regiune": "com. Frecăței, jud. Brăila",
+"stare": "",
+"tara": "România",
+"tehnici": [
+"Turnare în relief"
+],
+"thumb_av": "",
+"thumb_rv": "",
+"tipologie": "Cosma 2022, tip IA",
+"titlu": "Encolpion bivalv de bronz, Beroe – Piatra Frecăței, repertoriu IA 1.1"
+}

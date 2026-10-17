@@ -1,0 +1,52 @@
+{
+"an_desc": null,
+"analogii": "",
+"bibliografie": "C. Cosma, Tipuri de cruci relicvar bizantine din bronz cu figuri în relief, descoperite pe teritoriul României, în „Crisia”, LII, 2022, p. 111–140 (studiu p. 111–129, planșe p. 130–140) [Cosma 2022], p. 121, repertoriu IA 3.4, reprodusă la Pl. 2/1a-b (p. 131). Piesa citată în repertoriu după: N. Gudea, C. Cosma, Crucea relicvar descoperită la Dăbâca. Observații privind tipologia și cronologia crucilor relicvar bizantine din bronz, cu figuri în relief, descoperite pe teritoriul României, în „Ephemeris Napocensis”, VIII, 1998, p. 273–303 [Gudea/Cosma 1998].",
+"categorie": "Encolpion bivalv (relicvar)",
+"centru": "",
+"colectie": "",
+"context": "Descoperire izolată",
+"creat": "2026-10-17",
+"d1": 901,
+"d2": 1100,
+"datare": "sec. X–XI",
+"descr_av": "Descrierea tipului IA, după autor: Hristos răstignit, cu capul ușor plecat spre dreapta, îmbrăcat în colobium căzut în falduri până la glezne, picioarele desculțe; la capetele celor patru brațe ale crucii, busturile a patru personaje biblice, identificate în unele cazuri cu Sfânta Maria și Sf. Ioan Evanghelistul. Pe această piesă: Mântuitorul este înfățișat cu barbă, cu mânecile veșmântului până în zona încheieturii mâinilor; marginile veșmântului sunt împodobite cu un ornament în formă de torsadă (Pl. 2/1a).",
+"descr_rv": "Descrierea tipului IA, după autor: Sfânta Maria în poziție orantă, în veșmânt care acoperă complet trupul; la extremitățile celor patru brațe, busturile celor patru evangheliști. Pe această piesă: Marginile mamphorium-ului sunt împodobite cu un ornament în formă de torsadă (Pl. 2/1b).",
+"exemplu": false,
+"figura": "Pl. 2/1a-b",
+"greutate": null,
+"gros": 13,
+"h": 64,
+"has_av": true,
+"has_rv": true,
+"icon_av": [
+"Răstignirea (Hristos în colobium)"
+],
+"icon_rv": [
+"Maica Domnului Orantă",
+"Evangheliști în medalioane"
+],
+"inscriptie": "",
+"inventar": "",
+"l": 40,
+"lat": 46.9698,
+"limba": "",
+"loc_tip": "Doar localitatea",
+"localitate": "Dăbâca",
+"lon": 23.6746,
+"material": "Bronz",
+"modificat": "2026-10-17",
+"nr": 321,
+"observatii": "Descoperire întâmplătoare, fără context stratigrafic, într-un loc apropiat de fortificația din Evul Mediu timpuriu de la Dăbâca; singura piesă din Transilvania din repertoriul autorului. Pl. 2 mai cuprinde crucea desfăcută și o vedere laterală (nu sunt decupate). Colecția și inventarul nu sunt date în sursă. Coordonate: ale localității (aproximative), nu date în sursă. Număr în repertoriul autorului: 3.4 (tip IA).",
+"planse": "Cosma 2022, p. 131",
+"regiune": "jud. Cluj",
+"stare": "",
+"tara": "România",
+"tehnici": [
+"Turnare în relief"
+],
+"thumb_av": "",
+"thumb_rv": "",
+"tipologie": "Cosma 2022, tip IA",
+"titlu": "Encolpion bivalv de bronz, Dăbâca, repertoriu IA 3.4"
+}

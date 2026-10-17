@@ -1,0 +1,53 @@
+{
+"an_desc": null,
+"analogii": "",
+"bibliografie": "G. F. Korzukhina, A. A. Peskova, Древнерусские энколпионы. Нагрудные кресты-реликварии XI–XIII вв., Sankt-Petersburg, 2003 [Korzukhina–Peskova 2003], p. 70, cat. nr. II 1 1/73, reprodusă la Табл. 20 (planșe, p. 262). Bibliografie citată în sursă: Корзухина, архив ф. 77, д. 15, л. 16.",
+"categorie": "Encolpion bivalv (relicvar)",
+"centru": "Necunoscut",
+"colectie": "Muzeul Național de Istorie al Ucrainei (NMIU), Kiev",
+"context": "Fortificație",
+"creat": "2026-10-17",
+"d1": 1001,
+"d2": 1200,
+"datare": "sec. XI–XII",
+"descr_av": "Pe exterior, în centrul valvei de față, Răstignirea cu inscripții însoțitoare; în medalioanele laterale ale crucii imagini bust ale Maicii Domnului și ale Sf. Ioan Botezătorul (Înaintemergătorul); pe capătul de sus imagine bust a Sf. Nicolae în medalion. Reliefuri înalte. Pe marginea valvei, pe exterior, o linie în relief imitând filigranul („pseudo-filigran”), asemănătoare unei borduri.",
+"descr_rv": "Pe exterior, în centrul valvei de revers, imaginea în picioare a Maicii Domnului cu Pruncul (tip Odighitria); în medalionul lateral și în cel de sus imagini bust ale unor sfinți. Reliefuri înalte. Pe margine, pe exterior, linie în relief imitând filigranul (asemănătoare unei borduri).",
+"exemplu": false,
+"figura": "Табл. 20",
+"greutate": null,
+"gros": 10,
+"h": 78,
+"has_av": true,
+"has_rv": true,
+"icon_av": [
+"Sf. Ioan",
+"Sf. Nicolae"
+],
+"icon_rv": [
+"Maica Domnului cu Pruncul",
+"Neidentificat"
+],
+"inscriptie": "față: NH KA (în centrul crucii); MP ΘY, IA (medalioane laterale); O AΓNOC (colonetă, de-a lungul piciorului stâng al lui Hristos); IC XC (deasupra capului lui Hristos); NH[K]A[A] (medalionul de sus). revers: IC X[C]/MP [?] (două rânduri în centru); IO (medalion stâng); ΠΑΥ/ΛΟ (medalion drept); [?]OX[?] (medalion de sus)",
+"inventar": "В-952",
+"l": 68,
+"lat": null,
+"limba": "Greacă",
+"localitate": "Pekari (Kniaja Gora)",
+"lon": null,
+"material": "Aramă",
+"modificat": "2026-10-17",
+"nr": 694,
+"observatii": "Datare după Peskova: sec. XI–XII. Circumstanțe: Săpături N. F. Beleașevski, anii 1890 (pe așezarea fortificată). Proveniență în colecție: din colecția B. I. și V. N. Khanenko. Encolpion întreg, în relief, cu inel de agățare poliedric, capete rotunjite și câte două butonașe pe fiecare capăt; suprafața interioară a valvelor are adâncituri care repetă imaginile reliefate de pe exterior; o balama de la capătul de jos al valvei de revers este ruptă. Exemplarul se distinge prin calitatea turnării, claritatea imaginii și inscripțiile bine lizibile; inscripțiile sunt adâncite, turnate odată cu crucea. Lectura inscripțiilor de verificat pe original. Coordonate: nu sunt date în sursă.",
+"planse": "Korzukhina–Peskova 2003, Табл. 20 (planșă fără paginație proprie în PDF; p. 262 tipărită)",
+"regiune": "raionul Kaniv, regiunea Cerkasî",
+"stare": "Întreagă",
+"tara": "Ucraina",
+"tehnici": [
+"Turnare în relief",
+"Gravare (incizie)"
+],
+"thumb_av": "",
+"thumb_rv": "",
+"tipologie": "Korzukhina–Peskova 2003, tip II 1 1",
+"titlu": "Encolpion întreg în relief înalt, Răstignire și medalioane (Ioan, Nicolae) pe față, Odighitria pe revers"
+}

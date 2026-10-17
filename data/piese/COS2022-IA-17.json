@@ -1,0 +1,52 @@
+{
+"an_desc": null,
+"analogii": "",
+"bibliografie": "C. Cosma, Tipuri de cruci relicvar bizantine din bronz cu figuri în relief, descoperite pe teritoriul României, în „Crisia”, LII, 2022, p. 111–140 (studiu p. 111–129, planșe p. 130–140) [Cosma 2022], p. 122, repertoriu IA 8.17, reprodusă la Pl. 3/3a-b (p. 132). Piesa citată în repertoriu după: Diaconu/Vâlceanu 1972, p. 161, nr. 8, pl. XXIX/2a-b; Barnea 1981, p. 166, pl. 69/1a-b.",
+"categorie": "Encolpion bivalv (relicvar)",
+"centru": "",
+"colectie": "",
+"context": "Necunoscut",
+"creat": "2026-10-17",
+"d1": 1001,
+"d2": 1100,
+"datare": "sec. XI",
+"descr_av": "Descrierea tipului IA, după autor: Hristos răstignit, cu capul ușor plecat spre dreapta, îmbrăcat în colobium căzut în falduri până la glezne, picioarele desculțe; la capetele celor patru brațe ale crucii, busturile a patru personaje biblice, identificate în unele cazuri cu Sfânta Maria și Sf. Ioan Evanghelistul.",
+"descr_rv": "Descrierea tipului IA, după autor: Sfânta Maria în poziție orantă, în veșmânt care acoperă complet trupul; la extremitățile celor patru brațe, busturile celor patru evangheliști.",
+"exemplu": false,
+"figura": "Pl. 3/3a-b",
+"greutate": null,
+"gros": null,
+"h": 44,
+"has_av": true,
+"has_rv": true,
+"icon_av": [
+"Răstignirea (Hristos în colobium)"
+],
+"icon_rv": [
+"Maica Domnului Orantă",
+"Evangheliști în medalioane"
+],
+"inscriptie": "",
+"inventar": "",
+"l": 28,
+"lat": 44.1217,
+"limba": "",
+"loc_tip": "Doar localitatea",
+"localitate": "Păcuiul lui Soare",
+"lon": 27.4013,
+"material": "Bronz",
+"modificat": "2026-10-17",
+"nr": 334,
+"observatii": "În repertoriu trimiterea este „Pl. 2/1a-b” (în lista planșelor, Pl. 3/1a-b); piesa apare pe Pl. 3, în figura numerotată 3a-b. Colecția și inventarul nu sunt date în sursă. Coordonate: ale localității (aproximative), nu date în sursă. Număr în repertoriul autorului: 8.17 (tip IA).",
+"planse": "Cosma 2022, p. 132",
+"regiune": "jud. Constanța",
+"stare": "",
+"tara": "România",
+"tehnici": [
+"Turnare în relief"
+],
+"thumb_av": "",
+"thumb_rv": "",
+"tipologie": "Cosma 2022, tip IA",
+"titlu": "Encolpion bivalv de bronz, Păcuiul lui Soare, repertoriu IA 8.17"
+}

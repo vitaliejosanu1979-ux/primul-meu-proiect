@@ -1,0 +1,52 @@
+{
+"an_desc": 2016,
+"analogii": "",
+"bibliografie": "А. А. Пескова, Древнейшие древнерусские нагрудные кресты-реликварии в свете новых исследований, în „Археологические вести”, 27, 2020, p. 175–193 [Пескова 2020], рис. 1, 4 (p. 178, legenda p. 179), tabelul 2, nr. 1 (p. 184). DOI 10.31600/1817-6976-2020-27-175-193. Publicată la: Олейников 2019, p. 164, рис. 2, 1.",
+"categorie": "Encolpion bivalv (relicvar)",
+"centru": "",
+"colectie": "",
+"context": "Așezare",
+"creat": "2026-10-17",
+"d1": 1101,
+"d2": 1150,
+"datare": "prima jumătate a sec. XII",
+"descr_av": "Răstignirea: Hristos încins, cu un crucifix cu patru brațe deasupra capului (descrierea grupului IV.6.1 / IV.5.5, după autor).",
+"descr_rv": "Maica Domnului în rugăciune (orantă) (descrierea grupului, după autor).",
+"exemplu": false,
+"figura": "рис. 1, 4",
+"greutate": null,
+"gros": 3,
+"h": 36,
+"has_av": true,
+"has_rv": true,
+"icon_av": [
+"Răstignirea (Hristos cu perizoma)"
+],
+"icon_rv": [
+"Maica Domnului Orantă"
+],
+"inscriptie": "",
+"inventar": "",
+"l": 26.5,
+"lat": 58.561,
+"limba": "",
+"loc_tip": "Doar localitatea",
+"localitate": "Veliki Novgorod, săpătura Troițki (Тр-16/1-347)",
+"lon": 31.2809,
+"material": "",
+"modificat": "2026-10-17",
+"nr": 504,
+"observatii": "Tabelul 2, nr. 1. Pe acest encolpion crucea de deasupra capului lui Hristos e redată cu patru capete, fiecare închis într-un semicerc gravat, ca un quadrifoliu; la alte exemplare, unde capătul de jos e scurtat, quadrifoliul a devenit trifoliu (după autor). Datare: după contextul arheologic dat de autor. Coordonate: ale localității (aproximative), nu date în sursă.",
+"planse": "Пескова 2020, p. 178",
+"regiune": "",
+"stare": "Întreagă",
+"tara": "Rusia",
+"tehnici": [
+"Gravare (incizie)",
+"Niello"
+],
+"thumb_av": "",
+"thumb_rv": "",
+"tipologie": "Korzuhina–Peskova 2003, grupa IV.5.5 (nestandard)",
+"titlu": "Encolpion bivalv, Veliki Novgorod, рис. 1, 4"
+}
