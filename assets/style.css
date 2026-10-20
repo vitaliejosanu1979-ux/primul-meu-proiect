@@ -1,6 +1,6 @@
-:root{--bg:#edf0ec;--surface:#f9faf7;--sunk:#e3e8e3;--ink:#15201c;--muted:#56665e;--line:#cdd6cf;--patina:#2a6a5f;--patina-soft:#d5e6e1;--bronze:#8a5a1f;--colect:#5b4a9a;--sea:#dbe6e4;--land:#f7f6ee;--coast:#aebbb4;--on-accent:#f6fbf9;
+:root{--biv:#b3261e;--bg:#edf0ec;--surface:#f9faf7;--sunk:#e3e8e3;--ink:#15201c;--muted:#56665e;--line:#cdd6cf;--patina:#2a6a5f;--patina-soft:#d5e6e1;--bronze:#8a5a1f;--colect:#5b4a9a;--sea:#dbe6e4;--land:#f7f6ee;--coast:#aebbb4;--on-accent:#f6fbf9;
 --display:"Old Standard TT","Palatino Linotype",Palatino,Georgia,serif;--body:"IBM Plex Sans","Segoe UI",system-ui,sans-serif;--mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace}
-@media (prefers-color-scheme:dark){:root{--bg:#0e1614;--surface:#151f1c;--sunk:#0a110f;--ink:#e3eae5;--muted:#93a59c;--line:#293632;--patina:#74c2b1;--patina-soft:#1c342f;--bronze:#d3a35c;--colect:#a99be0;--sea:#0b1312;--land:#1a2723;--coast:#3d4f49;--on-accent:#0c1513;color-scheme:dark}}
+@media (prefers-color-scheme:dark){:root{--biv:#f0655a;--bg:#0e1614;--surface:#151f1c;--sunk:#0a110f;--ink:#e3eae5;--muted:#93a59c;--line:#293632;--patina:#74c2b1;--patina-soft:#1c342f;--bronze:#d3a35c;--colect:#a99be0;--sea:#0b1312;--land:#1a2723;--coast:#3d4f49;--on-accent:#0c1513;color-scheme:dark}}
 *{box-sizing:border-box}html{scroll-padding-top:12px}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.5}
 a{color:var(--patina)}img{max-width:100%}
@@ -51,3 +51,9 @@ h2{font-family:var(--display);font-size:19px;margin:0 0 10px}
 .about{max-width:68ch}.about p{margin:0 0 12px}.about h2{margin-top:22px}
 footer{border-top:1px solid var(--line);margin-top:40px;padding-top:12px;color:var(--muted);font-size:12.5px}
 :focus-visible{outline:2px solid var(--patina);outline-offset:2px}
+
+.leg{display:flex;flex-wrap:wrap;gap:6px 20px;margin:0 0 12px;font-size:13px;color:var(--ink)}.leg span{display:inline-flex;align-items:center;gap:7px}
+.leg .dot{width:12px;height:12px;border:1px solid var(--surface)}
+.leg .lg-cross{width:14px;height:14px;display:inline-block;background:
+ linear-gradient(var(--biv),var(--biv)) center/4px 100% no-repeat,linear-gradient(var(--biv),var(--biv)) center/100% 4px no-repeat}
+.mk.biv{fill:var(--biv);fill-opacity:.95;stroke-width:1.6}.mk.biv.p0{stroke:var(--patina)}.mk.biv.p1{stroke:var(--bronze)}.mk.biv.p2{stroke:var(--colect)}

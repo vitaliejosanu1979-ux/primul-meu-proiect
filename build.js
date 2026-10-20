@@ -84,9 +84,10 @@ ${hasGeo(r)?`<p class="muted"><a href="../../harta/#${esc(slug(r.id))}">Vezi pe 
 }
 
 /* ---------- hartă ---------- */
-const pts=recs.filter(hasGeo).map(r=>({id:slug(r.id),c:code(r),t:r.titlu,la:+r.lat,lo:+r.lon,n:r.localitate||"",lt:r.loc_tip||"",d:datare(r)}));
+const pts=recs.filter(hasGeo).map(r=>({id:slug(r.id),c:code(r),t:r.titlu,la:+r.lat,lo:+r.lon,n:r.localitate||"",lt:r.loc_tip||"",d:datare(r),b:r.categorie==="Encolpion bivalv (relicvar)"?1:0}));
 w("harta/index.html",page({title:"Hartă · Corpus Encolpiorum",desc:"Locurile de descoperire și de păstrare ale crucilor-encolpion din catalog.",depth:1,canon:"harta/",nav:"Hartă",
- body:`<h1>Harta descoperirilor</h1><p class="lede">${pts.length} piese cartate. Verde: coordonate exacte; bronz: doar localitatea; mov: locul de păstrare, descoperirea fiind incertă. Frontierele sunt cele actuale, doar pentru orientare. Trageți pentru a deplasa, dublu-clic sau rotița cu Ctrl pentru a mări.</p>
+ body:`<h1>Harta descoperirilor</h1><p class="lede">${pts.length} piese cartate, din care ${pts.filter(p=>p.b).length} encolpioane păstrate cu ambele valve. Frontierele sunt cele actuale, doar pentru orientare. Trageți pentru a deplasa, dublu-clic sau rotița cu Ctrl pentru a mări.</p>
+<div class="leg" aria-label="Legendă"><span><i class="lg-cross"></i>Encolpion cu ambele valve descoperit în acest loc</span><span><i class="dot t0"></i>Coordonate exacte</span><span><i class="dot t1"></i>Doar localitatea</span><span><i class="dot t2"></i>Loc de păstrare; descoperire incertă</span><span class="muted">Cifra din semn = numărul pieselor din acel loc. La locurile cu cruce, culoarea conturului arată precizia.</span></div>
 <div class="maplay"><div class="mapbox" id="map"><svg viewBox="0 0 1000 681" role="img" aria-label="Harta"><path class="land" d="${MAP}"/><g id="mks"></g></svg><div class="zoom"><button data-z="in">+</button><button data-z="out">−</button><button data-z="0">⌂</button></div></div>
 <div><p class="lab" id="siteHead">Locuri</p><div class="sitelist" id="sites"></div></div></div>
 <script>window.PTS=${JSON.stringify(pts)}</script><script src="../assets/map.js" defer></script>`}));
